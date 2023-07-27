@@ -25,7 +25,7 @@
 /* start base */
 
 body {
-    background-color: #070707;
+    background-color: #fd8d14;
     color: #faf9f9;
 }
 
@@ -323,7 +323,8 @@ table tbody tr td {
 /* start footer */
 
 footer {
-    background-color: #181818;
+    background-color: #ffe17b;
+    color: #070707;
 }
 
 /* end footer */

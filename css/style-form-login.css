@@ -10,7 +10,7 @@
 body {
     min-height: 100vh;
     width: 100%;
-    background: #ab201c;
+    background: #fd8d14;
 }
 
 .container {
@@ -70,7 +70,7 @@ body {
 
 .form a {
     font-size: 16px;
-    color: #009579;
+    color: #ba080b;
     text-decoration: none;
 }
 
@@ -80,7 +80,7 @@ body {
 
 .form input .button {
     color: #fff;
-    background: #009579;
+    background: #ba080b;
     font-size: 1.2rem;
     font-weight: 500;
     letter-spacing: 1px;
@@ -90,7 +90,7 @@ body {
 }
 
 .form input .button:hover {
-    background: #006653;
+    background: #ba080b;
 }
 
 .signup {
@@ -99,7 +99,7 @@ body {
 }
 
 .signup label {
-    color: #009579;
+    color: #ba080b;
     cursor: pointer;
 }
 
