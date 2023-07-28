@@ -25,45 +25,45 @@
 /* start base */
 
 body {
-    background-color: #fd8d14;
-    color: #faf9f9;
+    background-color: #faeec7;
+    color: #4e4331;
 }
 
 a {
-    color: #530c0a;
+    color: #4e4331;
     text-decoration: none;
     transition: all .3s ease-in-out;
 }
 
 a:hover {
-    color: #ba080b;
+    color: #4e4331;
     text-decoration: none;
 }
 
 table tbody tr td {
-    color: #ab201c;
+    color: #4e4331;
 }
 
 .btn-red {
     padding: 5px 10px;
-    background-color: #ba080b;
+    background-color: #81705be0;
     border-radius: 0;
     transition: all .3s ease-in-out;
 }
 .btn-red:hover {
-    box-shadow: 0 0.225rem .5rem rgba(0,0,0,.15)!important;
-    color: #faf9f9;
+    box-shadow: 0 0.225rem .5rem rgba(247, 176, 118, 0.15)!important;
+    color: #4e4331;
 }
 
 /* end base */
 
 .navbar {
-    background-color: #ab201c;
+    background-color: #81705be0;
     padding: 0 1rem;
 }
 
 .navbar .navbar-nav .nav-item .nav-link, .navbar .navbar-brand{
-    color: #faf9f9;
+    color: #fff2d5;
     font-size: 18px;
     font-weight: bolder;
     transition: all .2s ease-in-out;
@@ -72,7 +72,7 @@ table tbody tr td {
 .navbar .navbar-nav .nav-item {padding: 0 10px;}
 
 .navbar .navbar-nav .nav-item.active .nav-link,  .navbar .navbar-nav .nav-item .nav-link:hover{
-    border-bottom: 3px solid #faf9f9;
+    border-bottom: 3px solid #fff2d5;
 }
 
 .navbar .search .input-group {
@@ -83,20 +83,20 @@ table tbody tr td {
 
 .navbar .search button {
     border-radius: 0 100px 100px 0;
-    background-color: #fff;
-    border: 1px solid #d8d5d5;
+    background-color: #fff2d5;
+    border: 1px solid #fff2d5;
     border-left: none;
-    color: #070707;
+    color: #4e4331;
 }
-.navbar .search button:hover{color: #ab201c;}
+.navbar .search button:hover{color: #4e4331;}
 
 .navbar .profile, .navbar .profile .btn {
-    color: #faf9f9;
+    color: #faeec7;
     transition: all .2s ease-in-out;
 }
-.navbar .profile .btn:hover {color: #070707;}
+.navbar .profile .btn:hover {color: #4e4331;}
 
-.navbar .profile .saved span, .navbar .profile .saved a:last-of-type {color: #ab201c;}
+.navbar .profile .saved span, .navbar .profile .saved a:last-of-type {color: #4e4331;}
 
 .navbar .profile .account, .navbar .profile .saved {display: inline-block;}
 
@@ -112,7 +112,7 @@ table tbody tr td {
 #mangaslider .carousel-control-next div {
     width: 50px;
     height: 50px;
-    background-color: #ab201c;
+    background-color: #4e4331f6;
     line-height: 57px;
     border-radius: 50%;
 }
@@ -130,7 +130,7 @@ table tbody tr td {
 }
 .lastest .calendar .list-inline-item.active,
 .lastest .calendar .list-inline-item:hover {
-    border-bottom: 2px solid #ab201c;
+    border-bottom: 2px solid #4e4331;;
 }
 
 .lastest .posts .card {
@@ -167,13 +167,13 @@ table tbody tr td {
 .lastest .posts .card .card-text,
 .lastest .posts .card .card-title {margin: 0;}
 
-.lastest .posts .card .card-title a {color: #faf9f9;}
+.lastest .posts .card .card-title a {color: #4e4331bd;}
 
 /* card details */
 
 .lastest .posts .card .over {
     position: absolute;
-    background-color: #fff;
+    background-color: #fff2d5;
     bottom: 0;
     left: 0;
     height: 60%;
@@ -184,8 +184,8 @@ table tbody tr td {
 }
 
 .lastest .posts .card .over .head {
-    background-color: #ab201c;
-    color: #faf9f9;
+    background-color: #4e4331;
+    color: #fff2d5;
 }
 .lastest .posts .card .over .head h6 {padding: 5px 10px;}
 
@@ -199,7 +199,7 @@ table tbody tr td {
     font-size: 10px;
     padding: 5px 10px;
     color: #faf9f9;
-    background-color: #ab201c;
+    background-color: #4e4331;
     border-radius: 0;
 }
 
@@ -214,7 +214,7 @@ table tbody tr td {
 }
 
 .read-intro .fa-bookmark {
-    color: #ab201c;
+    color: #4e4331;
     position: absolute;
     top: 30px;
     right: 70px;
@@ -224,11 +224,11 @@ table tbody tr td {
 .read-intro .cover {padding-right: 20px;}
 
 .read-intro .table i {
-    color: #ffd550;
+    color: #fdcc51;
 }
 
 .read-intro p a {
-    color: #ab201c;
+    color: #4e4331;
 }
 
 .read-intro .cover .shadow {
@@ -242,13 +242,13 @@ table tbody tr td {
 .intro-lists {color: #070707;}
 
 .intro-lists .head-list {
-    color: #ab201c;
+    color: #4e4331;
     padding: 20px 0 0 20px;
     font-size: 18px;
 }
 
 .intro-lists .head-list li a.active {
-    color: #070707;
+    color: #4e4331;
     font-weight: bold;
     padding: 0 5px;
 }
@@ -323,7 +323,7 @@ table tbody tr td {
 /* start footer */
 
 footer {
-    background-color: #ffe17b;
+    background-color: #1818183a;
     color: #070707;
 }
 
